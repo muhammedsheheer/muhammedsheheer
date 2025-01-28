@@ -1,94 +1,50 @@
-# Welcome to My GitHub, I'm Muhammed Sheheer! 🌟
+# Muhammed Sheheer's GitHub 🌟
 
-Hello! I'm a dedicated and innovative full-stack developer with a knack for designing scalable, user-friendly applications. My passion lies in merging cutting-edge technology with intuitive design to deliver impactful solutions.
-
----
-
-## 🛠️ Professional Expertise
-
-### Frontend Development:
-- Crafting responsive, accessible, and dynamic user interfaces using **React**, **Next.js**, and **Tailwind CSS**.
-- Experienced with **Bootstrap** for rapid, responsive design implementations.
-
-### Backend Development:
-- Architecting and implementing robust APIs and server-side logic with **Node.js**, **Express**, and databases like **PostgreSQL** and **MongoDB**.
-- Proficient in database design, management, and optimization for scalable applications.
-
-### Full-Stack Projects:
-- Developing complete applications using the **MERN stack** and **Next.js**, ensuring seamless integration between frontend and backend systems.
-
-### Software Design:
-- Adopting **Clean Architecture** principles for scalable, maintainable, and testable codebases.
-
-### Interactive Design:
-- Enhancing user engagement through animations and transitions using **GSAP**.
+Hi, I'm Muhammed Sheheer, a passionate full-stack developer who specializes in building scalable, user-friendly applications using modern tools and frameworks.
 
 ---
 
-## 🎯 Current Focus
+## 🛠️ Skills at a Glance
 
-### Building a Job Portal:
-- Creating a comprehensive job portal with **Next.js (TypeScript)**, offering distinct roles for companies, users, and admins.
+### Frontend:
+- React, Next.js, Redux
+- Tailwind CSS, Bootstrap, MUI, ShadCN
+- HTML, CSS, JavaScript, TypeScript
 
-### Expanding Technical Horizons:
-- Delving deeper into **GSAP animations**, **advanced React patterns** like `useReducer` and Redux, and exploring the nuances of **Next.js** backend functionalities.
+### Backend:
+- Node.js, Express, MongoDB, PostgreSQL
+- REST APIs, JWT Authentication
+- Razorpay, Cloudinary, Firebase
 
-### Personal Growth:
-- Committed to daily learning in **data structures and algorithms (DSA)**, honing communication skills, and improving typing speed and accuracy.
+### Design & Animations:
+- Figma, GSAP, Framer Motion
 
----
-
-## 🌐 Technical Proficiencies
-
-**Languages & Frameworks:**
-- JavaScript (ES6+), TypeScript
-- React, Next.js, Node.js, Express
-
-**Styling & Animations:**
-- Tailwind CSS, Bootstrap
-- GSAP
-
-**Databases:**
-- MongoDB, PostgreSQL
-
-**Tools & Best Practices:**
+### Tools & Platforms:
+- AWS, Vercel, Render, Postman, Nodemailer
 - Git, GitHub
-- Figma (Design & Prototyping)
-- npm (Package Management)
-- Clean Architecture principles
+
+### Best Practices & Architectures:
+- MVC Architecture, Clean Architecture
+- Responsive design, scalable systems
+
+### Additional Skills:
+- DSA (Data Structures and Algorithms)
 
 ---
 
 ## 🌟 Featured Projects
 
-### [Professional Networking Platform](https://github.com/muhammedsheheer/project-link)
-- **Overview:** A LinkedIn-inspired platform featuring job postings, application management, and integrated video interviews.
-- **Key Features:** Role-based access for admins, employers, and users.
-
-### [Corporate Home Page](https://github.com/muhammedsheheer/homepage-link)
-- **Tech Stack:** Built with React, Vite, and Tailwind CSS for a modern, responsive design.
-
-### [DSA Learning Repository](https://github.com/muhammedsheheer/dsa-link)
-- **Purpose:** A dedicated space for practicing and mastering algorithms and data structures.
+- **[Professional Networking Platform](https://github.com/muhammedsheheer/project-link):** A LinkedIn-inspired app with job postings, applications, and video interviews.
+- **[Corporate Home Page](https://github.com/muhammedsheheer/homepage-link):** A modern, responsive company website built with React, Vite, and Tailwind CSS.
+- **[DSA Practice Repository](https://github.com/muhammedsheheer/dsa-link):** A collection of solved algorithms and data structures problems.
 
 ---
 
-## 🤝 Let’s Connect!
+## 🤝 Let’s Connect
 
-I’m eager to collaborate on challenging projects and share insights. Feel free to get in touch:
-
-- **Email:** [muhammedsheheercb@gmail.com](mailto:muhammedsheheecbr@gmail.com)
-- **LinkedIn:** [linkedin.com/in/mohammed-sheheer-c-b-/](https://www.linkedin.com/in/mohammed-sheheer-c-b-/)
+- **Email:** [muhammedsheheer@example.com](mailto:muhammedsheheer@example.com)
+- **LinkedIn:** [linkedin.com/in/muhammedsheheer](https://linkedin.com/in/muhammedsheheer)
 
 ---
 
-## 📊 GitHub Highlights
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammedsheheer&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsheheer&layout=compact&theme=radical)
-
----
-
-Thank you for visiting my profile! Let’s innovate and create remarkable projects together. 🚀
-
+Thank you for stopping by! Let's create something amazing together. 🚀
